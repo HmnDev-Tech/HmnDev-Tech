@@ -20,8 +20,8 @@
 Android System & Software Engineer specializing in low-level system integrations, privileged execution layers, and modern UI engineering. Focused on building robust tooling on top of Android internals, Binder IPC, ADB/Root environments, and next-generation Jetpack Compose architectures.
 
 - Lead Developer of [Shevery](https://github.com/HmnDev-Tech/shevery) — modernized privileged Android manager with 800+ stars and 75k+ downloads.
-- Deep Expertise: Android IPC (Binder / AIDL), Shizuku & Dhizuku frameworks, Android 16/17 platform compatibility.
-- Modern Frontend: Material 3 Expressive (M3E), fluid motion physics, and Jetpack Compose design systems.
+- Deep Expertise: Android IPC (Binder / AIDL), Android 17 platform compatibility.
+- Modern Frontend: Material 3 Expressive (MD3E), fluid motion physics, and Jetpack Compose design systems.
 - Systems & Tooling: C/C++ NDK, Unix Shell scripting, ADB automation, and BLE research.
 
 ---
