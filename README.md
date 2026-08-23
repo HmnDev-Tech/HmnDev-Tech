@@ -31,13 +31,12 @@ Android System & Software Engineer specializing in low-level system integrations
 <table>
   <tr>
     <td width="60%">
-      <h3><a href="https://github.com/HmnDev-Tech/shevery">Shevery — Modern Privileged Android Manager</a></h3>
+      <h3><a href="https://github.com/HmnDev-Tech/shevery">Shevery — Modern ADB manager.</a></h3>
       <p>
-        Next-gen Android privilege bridge & manager rebuilt with <b>Jetpack Compose</b>. Features an integrated ADB Modules runtimе, experimental Dhizuku support and Android 17 (API 37) compatibility.
+        Shizuku fork with integrated ADB Modules runtimе, experimental Dhizuku support and Android 17 (API 37) compatibility.
       </p>
       <p>
         <a href="https://github.com/HmnDev-Tech/shevery"><img src="https://img.shields.io/github/stars/HmnDev-Tech/shevery?style=flat-square&logo=github&color=7c3aed" alt="Stars"/></a>
-        <a href="https://github.com/HmnDev-Tech/shevery"><img src="https://img.shields.io/github/forks/HmnDev-Tech/shevery?style=flat-square&logo=github&color=0284c7" alt="Forks"/></a>
         <a href="https://github.com/HmnDev-Tech/shevery/releases"><img src="https://img.shields.io/github/downloads/HmnDev-Tech/shevery/total?style=flat-square&logo=github&color=10b981" alt="Downloads"/></a>
         <a href="https://github.com/HmnDev-Tech/shevery/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-Apache_2.0-orange?style=flat-square" alt="License"/></a>
       </p>
