@@ -33,7 +33,7 @@ Android System & Software Engineer specializing in low-level system integrations
     <td width="60%">
       <h3><a href="https://github.com/HmnDev-Tech/shevery">Shevery — Modern Privileged Android Manager</a></h3>
       <p>
-        Next-gen Android privilege bridge & manager rebuilt with <b>Jetpack Compose</b>, <b>Material 3 Expressive</b>, and experimental <b>Dhizuku</b> device-owner support. Features an integrated ADB Modules runtime, policy engine, AI Commandium macros, and Android 17 (API 37) compatibility.
+        Next-gen Android privilege bridge & manager rebuilt with <b>Jetpack Compose</b>. Features an integrated ADB Modules runtimе, experimental Dhizuku support and Android 17 (API 37) compatibility.
       </p>
       <p>
         <a href="https://github.com/HmnDev-Tech/shevery"><img src="https://img.shields.io/github/stars/HmnDev-Tech/shevery?style=flat-square&logo=github&color=7c3aed" alt="Stars"/></a>
