@@ -72,7 +72,6 @@ Android System & Software Engineer specializing in low-level system integrations
   <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose"/>
   <img src="https://img.shields.io/badge/Material_3_Expressive-6750A4?style=for-the-badge&logo=materialdesign&logoColor=white" alt="Material Design 3"/>
   <img src="https://img.shields.io/badge/Binder_IPC_/_AIDL-0284C7?style=for-the-badge&logo=linux&logoColor=white" alt="Binder"/>
-  <img src="https://img.shields.io/badge/Shizuku_/_Dhizuku-10B981?style=for-the-badge&logo=android&logoColor=white" alt="Shizuku"/>
 </p>
 
 #### Build & DevOps
