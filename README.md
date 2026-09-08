@@ -94,8 +94,4 @@ Android System & Software Engineer specializing in low-level system integrations
     <img src="https://img.shields.io/badge/Ko--fi-Support_on_Ko--fi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" alt="Ko-fi"/>
   </a>
 
-  <br/><br/>
-
-  [![Hits](https://hits.sh/github.com/HmnDev-Tech.svg?style=flat-square&label=hamondev&color=171817)](https://hits.sh/github.com/HmnDev-Tech/)
-
 </div>
