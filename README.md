@@ -1,7 +1,7 @@
 <div align="center">
   <br/><br/>
  <a href="https://github.com/HmnDev-Tech">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=560&lines=I+like+to+code%2C+just+code...;Creator+of+Shevery" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=560&lines=I+like+to+code%2C+just+code...;Crea[...]
   </a>
 
   <p align="center">
@@ -17,7 +17,7 @@
 
 ### About Me
 
-Android System & Software Engineer specializing in low-level system integrations, privileged execution layers, and modern UI engineering. Focused on building robust tooling on top of Android internals, Binder IPC, ADB/Root environments, and next-generation Jetpack Compose architectures.
+Android System & Software Engineer specializing in low-level system integrations, privileged execution layers, and modern UI engineering. Focused on building robust tooling on top of Android internals[...]
 
 - Lead Developer of [Shevery](https://github.com/HmnDev-Tech/shevery) — modernized privileged Android manager with 800+ stars and 75k+ downloads.
 - Deep Expertise: Android IPC (Binder / AIDL), Android 17 platform compatibility.
@@ -37,7 +37,7 @@ Android System & Software Engineer specializing in low-level system integrations
       </p>
       <p>
         <a href="https://github.com/HmnDev-Tech/shevery"><img src="https://img.shields.io/github/stars/HmnDev-Tech/shevery?style=flat-square&logo=github&color=7c3aed" alt="Stars"/></a>
-        <a href="https://github.com/HmnDev-Tech/shevery/releases"><img src="https://img.shields.io/github/downloads/HmnDev-Tech/shevery/total?style=flat-square&logo=github&color=10b981" alt="Downloads"/></a>
+        <a href="https://github.com/HmnDev-Tech/shevery/releases"><img src="https://img.shields.io/github/downloads/HmnDev-Tech/shevery/total?style=flat-square&logo=github&color=10b981" alt="Downloads[...]
         <a href="https://github.com/HmnDev-Tech/shevery/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-Apache_2.0-orange?style=flat-square" alt="License"/></a>
       </p>
     </td>
@@ -93,5 +93,9 @@ Android System & Software Engineer specializing in low-level system integrations
   <a href="https://ko-fi.com/hamondev">
     <img src="https://img.shields.io/badge/Ko--fi-Support_on_Ko--fi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" alt="Ko-fi"/>
   </a>
+
+  <br/><br/>
+
+  [![Hits](https://hits.sh/github.com/HmnDev-Tech.svg?style=flat-square&label=hamondev&color=171817)](https://hits.sh/github.com/HmnDev-Tech/)
 
 </div>
