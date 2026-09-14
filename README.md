@@ -8,7 +8,7 @@
     <a href="https://github.com/HmnDev-Tech"><img src="https://img.shields.io/badge/Location-Almaty%2C%20Kazakhstan-0ea5e9?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/></a>
     <a href="https://x.com/hamon73507"><img src="https://img.shields.io/badge/X-@hamon73507-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/></a>
     <a href="https://github.com/HmnDev-Tech/shevery"><img src="https://img.shields.io/badge/Flagship-Shevery-7c3aed?style=for-the-badge&logo=android&logoColor=white" alt="Shevery"/></a>
-    <a href="https://github.com/HmnDev-Tech?tab=repositories"><img src="https://img.shields.io/badge/Stars-850%2B-f59e0b?style=for-the-badge&logo=github&logoColor=white" alt="Total Stars"/></a>
+    <a href="https://github.com/HmnDev-Tech?tab=repositories"><img src="https://img.shields.io/badge/Stars-1К%2B-f59e0b?style=for-the-badge&logo=github&logoColor=white" alt="Total Stars"/></a>
   </p>
 
 </div>
