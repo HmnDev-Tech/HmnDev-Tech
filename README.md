@@ -90,8 +90,5 @@ Android System & Software Engineer specializing in low-level system integrations
   <a href="https://x.com/hamon73507">
     <img src="https://img.shields.io/badge/Twitter/X-@hamon73507-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
-  <a href="https://ko-fi.com/kerneldroid">
-    <img src="https://img.shields.io/badge/Ko--fi-Support_on_Ko--fi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" alt="Ko-fi"/>
-  </a>
 
 </div>
