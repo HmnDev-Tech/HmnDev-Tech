@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "login": "HmnDev-Tech",
+  "seed": "#0C0E01",
+  "seedFromAvatar": true,
+  "scheme": "monochrome",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "about",
+    "stack",
+    "projects",
+    "stats",
+    "streak",
+    "wave",
+    "socials",
+    "buttons"
+  ],
+  "hidden": [],
+  "hero": {
+    "greeting": "Hi, I'm vibecoder",
+    "name": "hamondev",
+    "subtitle": "I build some android apps for daily use. \nI like to code...",
+    "typing": true,
+    "avatarShape": "cookie12",
+    "chips": [
+      {
+        "icon": "location_on",
+        "label": "Kazakhstan"
+      },
+      {
+        "icon": "code",
+        "label": "Kotlin • Java"
+      }
+    ]
+  },
+  "about": {
+    "title": "Maybe, I...",
+    "items": [
+      {
+        "icon": "person",
+        "label": "Developer and vibecoder"
+      },
+      {
+        "icon": "code",
+        "label": "Mostly frontend"
+      },
+      {
+        "icon": "palette",
+        "label": "Into Material Expressive Design"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tech stack",
+    "groups": [
+      {
+        "title": "Main",
+        "items": [
+          {
+            "icon": "brand:kotlin",
+            "label": "Kotlin"
+          },
+          {
+            "icon": "brand:javascript",
+            "label": "JavaScript • Java"
+          }
+        ]
+      },
+      {
+        "title": "Tools",
+        "items": [
+          {
+            "icon": "brand:git",
+            "label": "Git"
+          },
+          {
+            "icon": "brand:githubactions",
+            "label": "GitHub Actions"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "manual",
+    "repos": [
+      "shevery",
+      "ShizuConfigs",
+      "BLE-Droid",
+      "Overcast-Next"
+    ],
+    "overrides": {
+      "shevery": {
+        "shape": "flower",
+        "icon": "brand:android"
+      },
+      "BLE-Droid": {
+        "shape": "clover",
+        "icon": "bluetooth"
+      },
+      "Overcast-Next": {
+        "shape": "cookie",
+        "icon": "weather_mix"
+      },
+      "ShizuConfigs": {
+        "icon": "settings"
+      }
+    },
+    "empty": "No description yet.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:telegram",
+        "url": "https://t.me/hmndevtech"
+      }
+    ],
+    "variant": "chip",
+    "fill": "tonal",
+    "card": true
+  },
+  "buttons": {
+    "items": []
+  }
+}
