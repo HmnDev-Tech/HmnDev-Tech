@@ -1,0 +1,279 @@
+{
+ "key": "e9afcf24",
+ "stars": 1493,
+ "contributions": 352,
+ "repos": 7,
+ "followers": 87,
+ "languages": [
+  [
+   "Kotlin",
+   1607526
+  ],
+  [
+   "Java",
+   287438
+  ],
+  [
+   "TypeScript",
+   106103
+  ],
+  [
+   "JavaScript",
+   75303
+  ],
+  [
+   "C++",
+   46817
+  ],
+  [
+   "CSS",
+   12040
+  ],
+  [
+   "HTML",
+   6205
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 0,
+    "day": 4,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 5,
+    "today": false
+   },
+   {
+    "c": 6,
+    "day": 6,
+    "today": false
+   },
+   {
+    "c": 4,
+    "day": 7,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 8,
+    "today": false
+   },
+   {
+    "c": 3,
+    "day": 9,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 10,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 10,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 7,
+    "day": 14,
+    "today": false
+   },
+   {
+    "c": 13,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 17,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 14,
+    "day": 17,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 3,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
+    "today": true
+   },
+   null,
+   null,
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 8,
+  "longest": 13
+ },
+ "pins": [
+  {
+   "name": "shevery",
+   "url": "https://github.com/HmnDev-Tech/shevery",
+   "text": "Shevery - Modernized Android manager with Jetpack Compose, Material 3, and compatibility enhancements.",
+   "fork": false,
+   "stars": 1444,
+   "language": "Kotlin",
+   "topics": [
+    "adb",
+    "android17",
+    "dhizuku",
+    "privileges",
+    "root",
+    "shizuku"
+   ]
+  },
+  {
+   "name": "BLE-Droid",
+   "url": "https://github.com/HmnDev-Tech/BLE-Droid",
+   "text": "Open the new advanced BLE App with Material 3 Expressive and Jetpack Compose!",
+   "fork": false,
+   "stars": 11,
+   "language": "Kotlin",
+   "topics": [
+    "app",
+    "ble",
+    "ble-spam",
+    "ble-spam-detect",
+    "ble-spammer",
+    "bluetooth",
+    "bluetooth-le",
+    "bluetooth-low-energy"
+   ]
+  },
+  {
+   "name": "ShizuConfigs",
+   "url": "https://github.com/HmnDev-Tech/ShizuConfigs",
+   "text": "Official \"Shevery\" module, that can monitor, create config.",
+   "fork": false,
+   "stars": 38,
+   "language": "JavaScript",
+   "topics": [
+    "adb-modules",
+    "shevery-modules"
+   ]
+  },
+  {
+   "name": "Overcast-Next",
+   "url": "https://github.com/HmnDev-Tech/Overcast-Next",
+   "text": "Weather is also Essential",
+   "fork": true,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  }
+ ],
+ "all": [
+  {
+   "name": "shevery",
+   "url": "https://github.com/HmnDev-Tech/shevery",
+   "text": "Shevery - Modernized Android manager with Jetpack Compose, Material 3, and compatibility enhancements.",
+   "fork": false,
+   "stars": 1444,
+   "language": "Kotlin",
+   "topics": [
+    "adb",
+    "android17",
+    "dhizuku",
+    "privileges",
+    "root",
+    "shizuku"
+   ]
+  },
+  {
+   "name": "ShizuConfigs",
+   "url": "https://github.com/HmnDev-Tech/ShizuConfigs",
+   "text": "Official \"Shevery\" module, that can monitor, create config.",
+   "fork": false,
+   "stars": 38,
+   "language": "JavaScript",
+   "topics": [
+    "adb-modules",
+    "shevery-modules"
+   ]
+  },
+  {
+   "name": "BPatch",
+   "url": "https://github.com/HmnDev-Tech/BPatch",
+   "text": "The modernized Android rooting app with Jetpack Compose, APatch Fork!",
+   "fork": true,
+   "stars": 11,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "BLE-Droid",
+   "url": "https://github.com/HmnDev-Tech/BLE-Droid",
+   "text": "Open the new advanced BLE App with Material 3 Expressive and Jetpack Compose!",
+   "fork": false,
+   "stars": 11,
+   "language": "Kotlin",
+   "topics": [
+    "app",
+    "ble",
+    "ble-spam",
+    "ble-spam-detect",
+    "ble-spammer",
+    "bluetooth",
+    "bluetooth-le",
+    "bluetooth-low-energy"
+   ]
+  },
+  {
+   "name": "essentials",
+   "url": "https://github.com/HmnDev-Tech/essentials",
+   "text": "Essential tools and mods for Android nerds",
+   "fork": true,
+   "stars": 1,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "Overcast-Next",
+   "url": "https://github.com/HmnDev-Tech/Overcast-Next",
+   "text": "Weather is also Essential",
+   "fork": true,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "HmnDev-Tech",
+   "url": "https://github.com/HmnDev-Tech/HmnDev-Tech",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  }
+ ]
+}
