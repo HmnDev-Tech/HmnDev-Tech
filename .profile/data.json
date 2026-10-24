@@ -1,8 +1,8 @@
 {
- "key": "4a16584e",
- "stars": 1528,
- "contributions": 377,
- "repos": 7,
+ "key": "da931e79",
+ "stars": 1532,
+ "contributions": 389,
+ "repos": 8,
  "followers": 89,
  "languages": [
   [
@@ -15,11 +15,11 @@
   ],
   [
    "TypeScript",
-   106085
+   240648
   ],
   [
    "JavaScript",
-   75303
+   75958
   ],
   [
    "C++",
@@ -27,7 +27,7 @@
   ],
   [
    "CSS",
-   12040
+   24159
   ],
   [
    "HTML",
@@ -141,7 +141,7 @@
     "today": false
    },
    {
-    "c": 1,
+    "c": 13,
     "day": 24,
     "today": true
    }
@@ -157,7 +157,7 @@
    "url": "https://github.com/HmnDev-Tech/shevery",
    "text": "Shevery - Modernized Android manager with Jetpack Compose, Material 3, and compatibility enhancements.",
    "fork": false,
-   "stars": 1475,
+   "stars": 1478,
    "language": "Kotlin",
    "topics": [
     "adb",
@@ -214,7 +214,7 @@
    "url": "https://github.com/HmnDev-Tech/shevery",
    "text": "Shevery - Modernized Android manager with Jetpack Compose, Material 3, and compatibility enhancements.",
    "fork": false,
-   "stars": 1475,
+   "stars": 1478,
    "language": "Kotlin",
    "topics": [
     "adb",
@@ -262,6 +262,15 @@
    "fork": true,
    "stars": 11,
    "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "HmnDev-Tech.github.io",
+   "url": "https://github.com/HmnDev-Tech/HmnDev-Tech.github.io",
+   "text": "Shevery site",
+   "fork": false,
+   "stars": 1,
+   "language": "TypeScript",
    "topics": []
   },
   {
