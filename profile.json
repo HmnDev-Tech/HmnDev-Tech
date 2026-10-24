@@ -1,7 +1,7 @@
 {
   "version": 1,
   "login": "HmnDev-Tech",
-  "seed": "#0C0E01",
+  "seed": "#FEC804",
   "seedFromAvatar": true,
   "scheme": "monochrome",
   "motion": true,
@@ -19,9 +19,9 @@
   ],
   "hidden": [],
   "hero": {
-    "greeting": "Hi, I'm vibecoder",
+    "greeting": "I like to code...",
     "name": "hamondev",
-    "subtitle": "I build some android apps for daily use. \nI like to code...",
+    "subtitle": "I build some android apps for daily use. \nI'm vibecoder.",
     "typing": true,
     "avatarShape": "cookie12",
     "chips": [
