@@ -1,6 +1,6 @@
 {
- "key": "fded3621",
- "stars": 1606,
+ "key": "4c145bd2",
+ "stars": 1608,
  "contributions": 451,
  "repos": 10,
  "followers": 98,
@@ -157,7 +157,7 @@
    "url": "https://github.com/HmnDev-Tech/shevery",
    "text": "Shevery - Modernized Android manager with Jetpack Compose, Material 3, and compatibility enhancements.",
    "fork": false,
-   "stars": 1548,
+   "stars": 1547,
    "language": "Kotlin",
    "topics": [
     "adb",
@@ -214,7 +214,7 @@
    "url": "https://github.com/HmnDev-Tech/shevery",
    "text": "Shevery - Modernized Android manager with Jetpack Compose, Material 3, and compatibility enhancements.",
    "fork": false,
-   "stars": 1548,
+   "stars": 1547,
    "language": "Kotlin",
    "topics": [
     "adb",
@@ -265,6 +265,15 @@
    "topics": []
   },
   {
+   "name": "Shevery-API",
+   "url": "https://github.com/HmnDev-Tech/Shevery-API",
+   "text": "New API of Shevery that faster than Shizuku API",
+   "fork": false,
+   "stars": 3,
+   "language": "Java",
+   "topics": []
+  },
+  {
    "name": "HmnDev-Tech.github.io",
    "url": "https://github.com/HmnDev-Tech/HmnDev-Tech.github.io",
    "text": "",
@@ -280,15 +289,6 @@
    "fork": true,
    "stars": 1,
    "language": "Kotlin",
-   "topics": []
-  },
-  {
-   "name": "Shevery-API",
-   "url": "https://github.com/HmnDev-Tech/Shevery-API",
-   "text": "New API of Shevery that faster than Shizuku API",
-   "fork": false,
-   "stars": 0,
-   "language": "Java",
    "topics": []
   },
   {
