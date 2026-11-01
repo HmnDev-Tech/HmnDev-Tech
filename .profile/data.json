@@ -1,21 +1,21 @@
 {
- "key": "e04de2d1",
- "stars": 1617,
- "contributions": 465,
+ "key": "3b0023e9",
+ "stars": 1625,
+ "contributions": 500,
  "repos": 10,
- "followers": 100,
+ "followers": 101,
  "languages": [
   [
    "Kotlin",
-   2131853
+   2175025
   ],
   [
    "Java",
-   358791
+   365390
   ],
   [
    "TypeScript",
-   240627
+   241141
   ],
   [
    "JavaScript",
@@ -111,7 +111,7 @@
   ],
   [
    {
-    "c": 14,
+    "c": 49,
     "day": 1,
     "today": true
    },
@@ -133,7 +133,7 @@
    "url": "https://github.com/HmnDev-Tech/shevery",
    "text": "Shevery - Modernized Android manager with Jetpack Compose, Material 3, and compatibility enhancements.",
    "fork": false,
-   "stars": 1554,
+   "stars": 1559,
    "language": "Kotlin",
    "topics": [
     "adb",
@@ -167,7 +167,7 @@
    "url": "https://github.com/HmnDev-Tech/ShizuConfigs",
    "text": "Official \"Shevery\" module, that can monitor, create config.",
    "fork": false,
-   "stars": 44,
+   "stars": 45,
    "language": "JavaScript",
    "topics": [
     "adb-modules",
@@ -190,7 +190,7 @@
    "url": "https://github.com/HmnDev-Tech/shevery",
    "text": "Shevery - Modernized Android manager with Jetpack Compose, Material 3, and compatibility enhancements.",
    "fork": false,
-   "stars": 1554,
+   "stars": 1559,
    "language": "Kotlin",
    "topics": [
     "adb",
@@ -206,7 +206,7 @@
    "url": "https://github.com/HmnDev-Tech/ShizuConfigs",
    "text": "Official \"Shevery\" module, that can monitor, create config.",
    "fork": false,
-   "stars": 44,
+   "stars": 45,
    "language": "JavaScript",
    "topics": [
     "adb-modules",
@@ -245,7 +245,7 @@
    "url": "https://github.com/HmnDev-Tech/Shevery-API",
    "text": "New API of Shevery that faster than Shizuku API",
    "fork": false,
-   "stars": 4,
+   "stars": 6,
    "language": "Java",
    "topics": []
   },
