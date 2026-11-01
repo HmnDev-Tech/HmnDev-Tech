@@ -1,6 +1,6 @@
 {
- "key": "badbd925",
- "stars": 1629,
+ "key": "d09ab688",
+ "stars": 1634,
  "contributions": 506,
  "repos": 11,
  "followers": 101,
@@ -133,7 +133,7 @@
    "url": "https://github.com/HmnDev-Tech/shevery",
    "text": "Shevery - Modernized Android manager with Jetpack Compose, Material 3, and compatibility enhancements.",
    "fork": false,
-   "stars": 1563,
+   "stars": 1565,
    "language": "Kotlin",
    "topics": [
     "adb",
@@ -190,7 +190,7 @@
    "url": "https://github.com/HmnDev-Tech/shevery",
    "text": "Shevery - Modernized Android manager with Jetpack Compose, Material 3, and compatibility enhancements.",
    "fork": false,
-   "stars": 1563,
+   "stars": 1565,
    "language": "Kotlin",
    "topics": [
     "adb",
@@ -250,12 +250,36 @@
    "topics": []
   },
   {
+   "name": "How-App-Coded",
+   "url": "https://github.com/HmnDev-Tech/How-App-Coded",
+   "text": "How app coded? So, install module and see!",
+   "fork": false,
+   "stars": 2,
+   "language": "JavaScript",
+   "topics": [
+    "adb-modules",
+    "shevery",
+    "shevery-modules",
+    "shizuku",
+    "shizuku-module"
+   ]
+  },
+  {
    "name": "HmnDev-Tech.github.io",
    "url": "https://github.com/HmnDev-Tech/HmnDev-Tech.github.io",
    "text": "",
    "fork": false,
    "stars": 2,
    "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "HmnDev-Tech",
+   "url": "https://github.com/HmnDev-Tech/HmnDev-Tech",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": null,
    "topics": []
   },
   {
@@ -266,21 +290,6 @@
    "stars": 1,
    "language": "Kotlin",
    "topics": []
-  },
-  {
-   "name": "How-App-Coded",
-   "url": "https://github.com/HmnDev-Tech/How-App-Coded",
-   "text": "How app coded? So, install module and see!",
-   "fork": false,
-   "stars": 0,
-   "language": "JavaScript",
-   "topics": [
-    "adb-modules",
-    "shevery",
-    "shevery-modules",
-    "shizuku",
-    "shizuku-module"
-   ]
   },
   {
    "name": "chronics",
@@ -309,15 +318,6 @@
    "fork": true,
    "stars": 0,
    "language": "Kotlin",
-   "topics": []
-  },
-  {
-   "name": "HmnDev-Tech",
-   "url": "https://github.com/HmnDev-Tech/HmnDev-Tech",
-   "text": "",
-   "fork": false,
-   "stars": 0,
-   "language": null,
    "topics": []
   }
  ]
