@@ -1,8 +1,8 @@
 {
- "key": "3b0023e9",
- "stars": 1625,
- "contributions": 500,
- "repos": 10,
+ "key": "badbd925",
+ "stars": 1629,
+ "contributions": 506,
+ "repos": 11,
  "followers": 101,
  "languages": [
   [
@@ -19,19 +19,19 @@
   ],
   [
    "JavaScript",
-   75958
+   141062
+  ],
+  [
+   "CSS",
+   51061
   ],
   [
    "C++",
    46817
   ],
   [
-   "CSS",
-   24159
-  ],
-  [
    "HTML",
-   6205
+   31724
   ]
  ],
  "days": [
@@ -111,7 +111,7 @@
   ],
   [
    {
-    "c": 49,
+    "c": 55,
     "day": 1,
     "today": true
    },
@@ -133,7 +133,7 @@
    "url": "https://github.com/HmnDev-Tech/shevery",
    "text": "Shevery - Modernized Android manager with Jetpack Compose, Material 3, and compatibility enhancements.",
    "fork": false,
-   "stars": 1559,
+   "stars": 1563,
    "language": "Kotlin",
    "topics": [
     "adb",
@@ -190,7 +190,7 @@
    "url": "https://github.com/HmnDev-Tech/shevery",
    "text": "Shevery - Modernized Android manager with Jetpack Compose, Material 3, and compatibility enhancements.",
    "fork": false,
-   "stars": 1559,
+   "stars": 1563,
    "language": "Kotlin",
    "topics": [
     "adb",
@@ -266,6 +266,21 @@
    "stars": 1,
    "language": "Kotlin",
    "topics": []
+  },
+  {
+   "name": "How-App-Coded",
+   "url": "https://github.com/HmnDev-Tech/How-App-Coded",
+   "text": "How app coded? So, install module and see!",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": [
+    "adb-modules",
+    "shevery",
+    "shevery-modules",
+    "shizuku",
+    "shizuku-module"
+   ]
   },
   {
    "name": "chronics",
