@@ -1,6 +1,6 @@
 {
- "key": "e8a868ed",
- "stars": 1711,
+ "key": "fb21a9cf",
+ "stars": 1712,
  "contributions": 570,
  "repos": 12,
  "followers": 108,
@@ -35,43 +35,6 @@
   ]
  ],
  "days": [
-  [
-   {
-    "c": 3,
-    "day": 18,
-    "today": false
-   },
-   {
-    "c": 3,
-    "day": 19,
-    "today": false
-   },
-   {
-    "c": 2,
-    "day": 20,
-    "today": false
-   },
-   {
-    "c": 2,
-    "day": 21,
-    "today": false
-   },
-   {
-    "c": 2,
-    "day": 22,
-    "today": false
-   },
-   {
-    "c": 15,
-    "day": 23,
-    "today": false
-   },
-   {
-    "c": 13,
-    "day": 24,
-    "today": false
-   }
-  ],
   [
    {
     "c": 0,
@@ -143,8 +106,21 @@
    {
     "c": 3,
     "day": 7,
-    "today": true
+    "today": false
    }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 8,
+    "today": true
+   },
+   null,
+   null,
+   null,
+   null,
+   null,
+   null
   ]
  ],
  "streak": {
@@ -191,7 +167,7 @@
    "url": "https://github.com/HmnDev-Tech/ShizuConfigs",
    "text": "Official \"Shevery\" module, that can monitor, create config.",
    "fork": false,
-   "stars": 51,
+   "stars": 52,
    "language": "JavaScript",
    "topics": [
     "adb-modules",
@@ -230,7 +206,7 @@
    "url": "https://github.com/HmnDev-Tech/ShizuConfigs",
    "text": "Official \"Shevery\" module, that can monitor, create config.",
    "fork": false,
-   "stars": 51,
+   "stars": 52,
    "language": "JavaScript",
    "topics": [
     "adb-modules",
