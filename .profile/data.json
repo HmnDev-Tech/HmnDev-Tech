@@ -1,8 +1,8 @@
 {
- "key": "c23339a3",
- "stars": 1747,
- "contributions": 578,
- "repos": 12,
+ "key": "ef9b35d8",
+ "stars": 1752,
+ "contributions": 580,
+ "repos": 13,
  "followers": 108,
  "languages": [
   [
@@ -131,7 +131,7 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 2,
     "day": 12,
     "today": true
    },
@@ -140,7 +140,7 @@
   ]
  ],
  "streak": {
-  "current": 2,
+  "current": 3,
   "longest": 13
  },
  "pins": [
@@ -149,7 +149,7 @@
    "url": "https://github.com/HmnDev-Tech/shevery",
    "text": "Shevery - Modernized Android manager with Jetpack Compose, Material 3, and compatibility enhancements.",
    "fork": false,
-   "stars": 1664,
+   "stars": 1669,
    "language": "Kotlin",
    "topics": [
     "adb",
@@ -206,7 +206,7 @@
    "url": "https://github.com/HmnDev-Tech/shevery",
    "text": "Shevery - Modernized Android manager with Jetpack Compose, Material 3, and compatibility enhancements.",
    "fork": false,
-   "stars": 1664,
+   "stars": 1669,
    "language": "Kotlin",
    "topics": [
     "adb",
@@ -306,6 +306,23 @@
    "stars": 1,
    "language": "Kotlin",
    "topics": []
+  },
+  {
+   "name": "Obtainmond",
+   "url": "https://github.com/HmnDev-Tech/Obtainmond",
+   "text": "Get Android app updates straight from the source link!",
+   "fork": true,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": [
+    "adb",
+    "obtainium",
+    "obtainium-alternative",
+    "obtainium-apps",
+    "shevery",
+    "shevery-api",
+    "shizuku"
+   ]
   },
   {
    "name": "folio-reader",
