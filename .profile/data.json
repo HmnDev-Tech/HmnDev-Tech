@@ -1,6 +1,6 @@
 {
- "key": "a70f35b8",
- "stars": 1763,
+ "key": "72b0346d",
+ "stars": 1764,
  "contributions": 591,
  "repos": 13,
  "followers": 110,
@@ -153,7 +153,7 @@
    "url": "https://github.com/HmnDev-Tech/shevery",
    "text": "Shevery - Modernized Android manager with Jetpack Compose, Material 3, and compatibility enhancements.",
    "fork": false,
-   "stars": 1679,
+   "stars": 1680,
    "language": "Kotlin",
    "topics": [
     "adb",
@@ -183,25 +183,66 @@
    ]
   },
   {
-   "name": "ShizuConfigs",
-   "url": "https://github.com/HmnDev-Tech/ShizuConfigs",
-   "text": "Official \"Shevery\" module, that can monitor, create config.",
+   "name": "Shevery-API",
+   "url": "https://github.com/HmnDev-Tech/Shevery-API",
+   "text": "New API of Shevery that faster than Shizuku API",
    "fork": false,
-   "stars": 52,
-   "language": "JavaScript",
+   "stars": 6,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "chronics",
+   "url": "https://github.com/HmnDev-Tech/chronics",
+   "text": "Chronics — a local Android notification archive with full-text capture, filters, and Downloads export",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
    "topics": [
-    "adb-modules",
-    "shevery-modules"
+    "android",
+    "jetpack-compose",
+    "kotlin",
+    "notifications",
+    "shizuku",
+    "accessibility-service",
+    "android-app",
+    "backup",
+    "downloads",
+    "localization"
    ]
   },
   {
-   "name": "Overcast-Next",
-   "url": "https://github.com/HmnDev-Tech/Overcast-Next",
-   "text": "Weather is also Essential",
+   "name": "folio-reader",
+   "url": "https://github.com/HmnDev-Tech/folio-reader",
+   "text": "Read md files without suffering",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": [
+    "markdown",
+    "markdown-language",
+    "markdown-viewer",
+    "text",
+    "text-reader",
+    "text-viewer"
+   ]
+  },
+  {
+   "name": "Obtainmond",
+   "url": "https://github.com/HmnDev-Tech/Obtainmond",
+   "text": "Get Android app updates straight from the source link!",
    "fork": true,
    "stars": 0,
    "language": "Kotlin",
-   "topics": []
+   "topics": [
+    "adb",
+    "obtainium",
+    "obtainium-alternative",
+    "obtainium-apps",
+    "shevery",
+    "shevery-api",
+    "shizuku"
+   ]
   }
  ],
  "all": [
@@ -210,7 +251,7 @@
    "url": "https://github.com/HmnDev-Tech/shevery",
    "text": "Shevery - Modernized Android manager with Jetpack Compose, Material 3, and compatibility enhancements.",
    "fork": false,
-   "stars": 1679,
+   "stars": 1680,
    "language": "Kotlin",
    "topics": [
     "adb",
