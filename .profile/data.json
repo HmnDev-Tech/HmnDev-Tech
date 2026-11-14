@@ -1,6 +1,6 @@
 {
- "key": "d6e0cc6e",
- "stars": 1764,
+ "key": "71bb602f",
+ "stars": 1766,
  "contributions": 591,
  "repos": 13,
  "followers": 110,
@@ -157,7 +157,7 @@
    "url": "https://github.com/HmnDev-Tech/shevery",
    "text": "Shevery - Modernized Android manager with Jetpack Compose, Material 3, and compatibility enhancements.",
    "fork": false,
-   "stars": 1680,
+   "stars": 1681,
    "language": "Kotlin",
    "topics": [
     "adb",
@@ -255,7 +255,7 @@
    "url": "https://github.com/HmnDev-Tech/shevery",
    "text": "Shevery - Modernized Android manager with Jetpack Compose, Material 3, and compatibility enhancements.",
    "fork": false,
-   "stars": 1680,
+   "stars": 1681,
    "language": "Kotlin",
    "topics": [
     "adb",
@@ -297,20 +297,11 @@
    ]
   },
   {
-   "name": "BPatch",
-   "url": "https://github.com/HmnDev-Tech/BPatch",
-   "text": "The modernized Android rooting app with Jetpack Compose, APatch Fork!",
-   "fork": true,
-   "stars": 11,
-   "language": "Kotlin",
-   "topics": []
-  },
-  {
    "name": "How-App-Coded",
    "url": "https://github.com/HmnDev-Tech/How-App-Coded",
    "text": "How app coded? So, install module and see!",
    "fork": false,
-   "stars": 10,
+   "stars": 11,
    "language": "JavaScript",
    "topics": [
     "adb-modules",
@@ -319,6 +310,15 @@
     "shizuku",
     "shizuku-module"
    ]
+  },
+  {
+   "name": "BPatch",
+   "url": "https://github.com/HmnDev-Tech/BPatch",
+   "text": "The modernized Android rooting app with Jetpack Compose, APatch Fork!",
+   "fork": true,
+   "stars": 11,
+   "language": "Kotlin",
+   "topics": []
   },
   {
    "name": "Shevery-API",
