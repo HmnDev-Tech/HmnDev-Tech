@@ -1,13 +1,13 @@
 {
- "key": "71bb602f",
- "stars": 1766,
- "contributions": 591,
+ "key": "c6a5c241",
+ "stars": 1774,
+ "contributions": 594,
  "repos": 13,
- "followers": 110,
+ "followers": 112,
  "languages": [
   [
    "Kotlin",
-   2486512
+   2574444
   ],
   [
    "Java",
@@ -141,14 +141,14 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 3,
     "day": 14,
     "today": true
    }
   ]
  ],
  "streak": {
-  "current": 4,
+  "current": 5,
   "longest": 13
  },
  "pins": [
@@ -157,7 +157,7 @@
    "url": "https://github.com/HmnDev-Tech/shevery",
    "text": "Shevery - Modernized Android manager with Jetpack Compose, Material 3, and compatibility enhancements.",
    "fork": false,
-   "stars": 1681,
+   "stars": 1688,
    "language": "Kotlin",
    "topics": [
     "adb",
@@ -236,7 +236,7 @@
    "url": "https://github.com/HmnDev-Tech/Obtainmond",
    "text": "Get Android app updates straight from the source link!",
    "fork": true,
-   "stars": 0,
+   "stars": 1,
    "language": "Kotlin",
    "topics": [
     "adb",
@@ -255,7 +255,7 @@
    "url": "https://github.com/HmnDev-Tech/shevery",
    "text": "Shevery - Modernized Android manager with Jetpack Compose, Material 3, and compatibility enhancements.",
    "fork": false,
-   "stars": 1681,
+   "stars": 1688,
    "language": "Kotlin",
    "topics": [
     "adb",
@@ -301,7 +301,7 @@
    "url": "https://github.com/HmnDev-Tech/How-App-Coded",
    "text": "How app coded? So, install module and see!",
    "fork": false,
-   "stars": 11,
+   "stars": 12,
    "language": "JavaScript",
    "topics": [
     "adb-modules",
@@ -339,6 +339,23 @@
    "topics": []
   },
   {
+   "name": "Obtainmond",
+   "url": "https://github.com/HmnDev-Tech/Obtainmond",
+   "text": "Get Android app updates straight from the source link!",
+   "fork": true,
+   "stars": 1,
+   "language": "Kotlin",
+   "topics": [
+    "adb",
+    "obtainium",
+    "obtainium-alternative",
+    "obtainium-apps",
+    "shevery",
+    "shevery-api",
+    "shizuku"
+   ]
+  },
+  {
    "name": "HmnDev-Tech",
    "url": "https://github.com/HmnDev-Tech/HmnDev-Tech",
    "text": "",
@@ -355,23 +372,6 @@
    "stars": 1,
    "language": "Kotlin",
    "topics": []
-  },
-  {
-   "name": "Obtainmond",
-   "url": "https://github.com/HmnDev-Tech/Obtainmond",
-   "text": "Get Android app updates straight from the source link!",
-   "fork": true,
-   "stars": 0,
-   "language": "Kotlin",
-   "topics": [
-    "adb",
-    "obtainium",
-    "obtainium-alternative",
-    "obtainium-apps",
-    "shevery",
-    "shevery-api",
-    "shizuku"
-   ]
   },
   {
    "name": "folio-reader",
