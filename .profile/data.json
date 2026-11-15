@@ -1,33 +1,33 @@
 {
- "key": "a2fac89a",
- "stars": 1781,
- "contributions": 599,
+ "key": "e07f8285",
+ "stars": 1784,
+ "contributions": 615,
  "repos": 13,
  "followers": 114,
  "languages": [
   [
    "Kotlin",
-   2574444
+   2692918
   ],
   [
    "Java",
-   412471
-  ],
-  [
-   "TypeScript",
-   243378
+   354087
   ],
   [
    "JavaScript",
-   141062
+   140505
+  ],
+  [
+   "TypeScript",
+   134563
   ],
   [
    "Rust",
-   117504
+   128205
   ],
   [
    "CSS",
-   51061
+   45620
   ],
   [
    "HTML",
@@ -104,14 +104,14 @@
     "today": false
    },
    {
-    "c": 3,
+    "c": 5,
     "day": 14,
     "today": false
    }
   ],
   [
    {
-    "c": 3,
+    "c": 17,
     "day": 15,
     "today": true
    },
@@ -133,7 +133,7 @@
    "url": "https://github.com/HmnDev-Tech/shevery",
    "text": "Shevery - Modernized Android manager with Jetpack Compose, Material 3, and compatibility enhancements.",
    "fork": false,
-   "stars": 1692,
+   "stars": 1694,
    "language": "Kotlin",
    "topics": [
     "adb",
@@ -212,7 +212,7 @@
    "url": "https://github.com/HmnDev-Tech/Obtainmond",
    "text": "Get Android app updates straight from the source link!",
    "fork": true,
-   "stars": 6,
+   "stars": 7,
    "language": "Kotlin",
    "topics": [
     "adb",
@@ -231,7 +231,7 @@
    "url": "https://github.com/HmnDev-Tech/shevery",
    "text": "Shevery - Modernized Android manager with Jetpack Compose, Material 3, and compatibility enhancements.",
    "fork": false,
-   "stars": 1692,
+   "stars": 1694,
    "language": "Kotlin",
    "topics": [
     "adb",
@@ -255,6 +255,21 @@
    ]
   },
   {
+   "name": "How-App-Coded",
+   "url": "https://github.com/HmnDev-Tech/How-App-Coded",
+   "text": "How app coded? So, install module and see!",
+   "fork": false,
+   "stars": 13,
+   "language": "JavaScript",
+   "topics": [
+    "adb-modules",
+    "shevery",
+    "shevery-modules",
+    "shizuku",
+    "shizuku-module"
+   ]
+  },
+  {
    "name": "BLE-Droid",
    "url": "https://github.com/HmnDev-Tech/BLE-Droid",
    "text": "Open the new advanced BLE App with Material 3 Expressive and Jetpack Compose!",
@@ -273,21 +288,6 @@
    ]
   },
   {
-   "name": "How-App-Coded",
-   "url": "https://github.com/HmnDev-Tech/How-App-Coded",
-   "text": "How app coded? So, install module and see!",
-   "fork": false,
-   "stars": 12,
-   "language": "JavaScript",
-   "topics": [
-    "adb-modules",
-    "shevery",
-    "shevery-modules",
-    "shizuku",
-    "shizuku-module"
-   ]
-  },
-  {
    "name": "BPatch",
    "url": "https://github.com/HmnDev-Tech/BPatch",
    "text": "The modernized Android rooting app with Jetpack Compose, APatch Fork!",
@@ -297,20 +297,11 @@
    "topics": []
   },
   {
-   "name": "Shevery-API",
-   "url": "https://github.com/HmnDev-Tech/Shevery-API",
-   "text": "New API of Shevery that faster than Shizuku API",
-   "fork": false,
-   "stars": 7,
-   "language": "Java",
-   "topics": []
-  },
-  {
    "name": "Obtainmond",
    "url": "https://github.com/HmnDev-Tech/Obtainmond",
    "text": "Get Android app updates straight from the source link!",
    "fork": true,
-   "stars": 6,
+   "stars": 7,
    "language": "Kotlin",
    "topics": [
     "adb",
@@ -321,6 +312,15 @@
     "shevery-api",
     "shizuku"
    ]
+  },
+  {
+   "name": "Shevery-API",
+   "url": "https://github.com/HmnDev-Tech/Shevery-API",
+   "text": "New API of Shevery that faster than Shizuku API",
+   "fork": false,
+   "stars": 7,
+   "language": "Java",
+   "topics": []
   },
   {
    "name": "HmnDev-Tech.github.io",
