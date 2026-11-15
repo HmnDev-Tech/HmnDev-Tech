@@ -6,9 +6,11 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
-<a href="https://github.com/HmnDev-Tech/shevery"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-shevery-dark.svg"><img src="assets/project-shevery-light.svg" width="49%" alt="shevery"></picture></a>&nbsp;<a href="https://github.com/HmnDev-Tech/ShizuConfigs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-shizuconfigs-dark.svg"><img src="assets/project-shizuconfigs-light.svg" width="49%" alt="ShizuConfigs"></picture></a>
+<a href="https://github.com/HmnDev-Tech/shevery"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-shevery-dark.svg"><img src="assets/project-shevery-light.svg" width="49%" alt="shevery"></picture></a>&nbsp;<a href="https://github.com/HmnDev-Tech/BLE-Droid"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-ble-droid-dark.svg"><img src="assets/project-ble-droid-light.svg" width="49%" alt="BLE-Droid"></picture></a>
 
-<a href="https://github.com/HmnDev-Tech/BLE-Droid"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-ble-droid-dark.svg"><img src="assets/project-ble-droid-light.svg" width="49%" alt="BLE-Droid"></picture></a>&nbsp;<a href="https://github.com/HmnDev-Tech/Overcast-Next"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-overcast-next-dark.svg"><img src="assets/project-overcast-next-light.svg" width="49%" alt="Overcast-Next"></picture></a>
+<a href="https://github.com/HmnDev-Tech/Shevery-API"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-shevery-api-dark.svg"><img src="assets/project-shevery-api-light.svg" width="49%" alt="Shevery-API"></picture></a>&nbsp;<a href="https://github.com/HmnDev-Tech/chronics"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-chronics-dark.svg"><img src="assets/project-chronics-light.svg" width="49%" alt="chronics"></picture></a>
+
+<a href="https://github.com/HmnDev-Tech/folio-reader"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-folio-reader-dark.svg"><img src="assets/project-folio-reader-light.svg" width="49%" alt="folio-reader"></picture></a>&nbsp;<a href="https://github.com/HmnDev-Tech/Obtainmond"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-obtainmond-dark.svg"><img src="assets/project-obtainmond-light.svg" width="49%" alt="Obtainmond"></picture></a>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 

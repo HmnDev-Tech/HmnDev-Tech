@@ -65,6 +65,18 @@
           {
             "icon": "brand:javascript",
             "label": "JavaScript • Java"
+          },
+          {
+            "icon": "brand:rust",
+            "label": "Rust"
+          },
+          {
+            "icon": "brand:python",
+            "label": "Python"
+          },
+          {
+            "icon": "brand:dart",
+            "label": "Dart"
           }
         ]
       },
@@ -78,13 +90,21 @@
           {
             "icon": "brand:githubactions",
             "label": "GitHub Actions"
+          },
+          {
+            "icon": "brand:google",
+            "label": "Antigravity "
+          },
+          {
+            "icon": "brand:opencode",
+            "label": "Opencode"
           }
         ]
       }
     ]
   },
   "projects": {
-    "source": "manual",
+    "source": "pinned",
     "repos": [
       "shevery",
       "ShizuConfigs",
@@ -94,7 +114,7 @@
     "overrides": {
       "shevery": {
         "shape": "flower",
-        "icon": "brand:android"
+        "icon": "adb"
       },
       "BLE-Droid": {
         "shape": "clover",
@@ -106,6 +126,15 @@
       },
       "ShizuConfigs": {
         "icon": "settings"
+      },
+      "Obtainmond": {
+        "icon": "brand:obtainium"
+      },
+      "chronics": {
+        "icon": "history"
+      },
+      "folio-reader": {
+        "icon": "chrome_reader_mode"
       }
     },
     "empty": "No description yet.",
