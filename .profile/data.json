@@ -1,9 +1,9 @@
 {
- "key": "73f22aff",
+ "key": "6beab32f",
  "stars": 1790,
  "contributions": 615,
  "repos": 13,
- "followers": 114,
+ "followers": 113,
  "languages": [
   [
    "Kotlin",
@@ -23,7 +23,7 @@
   ],
   [
    "Rust",
-   128205
+   128426
   ],
   [
    "CSS",
@@ -216,7 +216,7 @@
    "url": "https://github.com/HmnDev-Tech/Obtainmond",
    "text": "Get Android app updates straight from the source link!",
    "fork": true,
-   "stars": 10,
+   "stars": 12,
    "language": "Kotlin",
    "topics": [
     "adb",
@@ -292,20 +292,11 @@
    ]
   },
   {
-   "name": "BPatch",
-   "url": "https://github.com/HmnDev-Tech/BPatch",
-   "text": "The modernized Android rooting app with Jetpack Compose, APatch Fork!",
-   "fork": true,
-   "stars": 11,
-   "language": "Kotlin",
-   "topics": []
-  },
-  {
    "name": "Obtainmond",
    "url": "https://github.com/HmnDev-Tech/Obtainmond",
    "text": "Get Android app updates straight from the source link!",
    "fork": true,
-   "stars": 10,
+   "stars": 12,
    "language": "Kotlin",
    "topics": [
     "adb",
@@ -316,6 +307,15 @@
     "shevery-api",
     "shizuku"
    ]
+  },
+  {
+   "name": "BPatch",
+   "url": "https://github.com/HmnDev-Tech/BPatch",
+   "text": "The modernized Android rooting app with Jetpack Compose, APatch Fork!",
+   "fork": true,
+   "stars": 11,
+   "language": "Kotlin",
+   "topics": []
   },
   {
    "name": "Shevery-API",
