@@ -1,9 +1,9 @@
 {
- "key": "d08f1874",
- "stars": 1807,
+ "key": "4b4e31cc",
+ "stars": 1818,
  "contributions": 624,
  "repos": 13,
- "followers": 116,
+ "followers": 117,
  "languages": [
   [
    "Kotlin",
@@ -145,7 +145,7 @@
    "url": "https://github.com/HmnDev-Tech/shevery",
    "text": "Shevery - Modernized Android manager with Jetpack Compose, Material 3, and compatibility enhancements.",
    "fork": false,
-   "stars": 1717,
+   "stars": 1726,
    "language": "Kotlin",
    "topics": [
     "adb",
@@ -161,7 +161,7 @@
    "url": "https://github.com/HmnDev-Tech/BLE-Droid",
    "text": "Open the new advanced BLE App with Material 3 Expressive and Jetpack Compose!",
    "fork": false,
-   "stars": 13,
+   "stars": 14,
    "language": "Kotlin",
    "topics": [
     "app",
@@ -243,7 +243,7 @@
    "url": "https://github.com/HmnDev-Tech/shevery",
    "text": "Shevery - Modernized Android manager with Jetpack Compose, Material 3, and compatibility enhancements.",
    "fork": false,
-   "stars": 1717,
+   "stars": 1726,
    "language": "Kotlin",
    "topics": [
     "adb",
@@ -259,11 +259,29 @@
    "url": "https://github.com/HmnDev-Tech/ShizuConfigs",
    "text": "Official \"Shevery\" module, that can monitor, create config.",
    "fork": false,
-   "stars": 54,
+   "stars": 55,
    "language": "JavaScript",
    "topics": [
     "adb-modules",
     "shevery-modules"
+   ]
+  },
+  {
+   "name": "BLE-Droid",
+   "url": "https://github.com/HmnDev-Tech/BLE-Droid",
+   "text": "Open the new advanced BLE App with Material 3 Expressive and Jetpack Compose!",
+   "fork": false,
+   "stars": 14,
+   "language": "Kotlin",
+   "topics": [
+    "app",
+    "ble",
+    "ble-spam",
+    "ble-spam-detect",
+    "ble-spammer",
+    "bluetooth",
+    "bluetooth-le",
+    "bluetooth-low-energy"
    ]
   },
   {
@@ -279,24 +297,6 @@
     "shevery-modules",
     "shizuku",
     "shizuku-module"
-   ]
-  },
-  {
-   "name": "BLE-Droid",
-   "url": "https://github.com/HmnDev-Tech/BLE-Droid",
-   "text": "Open the new advanced BLE App with Material 3 Expressive and Jetpack Compose!",
-   "fork": false,
-   "stars": 13,
-   "language": "Kotlin",
-   "topics": [
-    "app",
-    "ble",
-    "ble-spam",
-    "ble-spam-detect",
-    "ble-spammer",
-    "bluetooth",
-    "bluetooth-le",
-    "bluetooth-low-energy"
    ]
   },
   {
