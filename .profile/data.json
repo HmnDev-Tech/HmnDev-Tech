@@ -1,6 +1,6 @@
 {
- "key": "66e6bb87",
- "stars": 1833,
+ "key": "e8b649d7",
+ "stars": 1836,
  "contributions": 626,
  "repos": 13,
  "followers": 119,
@@ -138,9 +138,13 @@
    {
     "c": 1,
     "day": 20,
-    "today": true
+    "today": false
    },
-   null
+   {
+    "c": 0,
+    "day": 21,
+    "today": true
+   }
   ]
  ],
  "streak": {
@@ -153,7 +157,7 @@
    "url": "https://github.com/HmnDev-Tech/shevery",
    "text": "Shevery - Modernized Android manager with Jetpack Compose, Material 3, and compatibility enhancements.",
    "fork": false,
-   "stars": 1740,
+   "stars": 1743,
    "language": "Kotlin",
    "topics": [
     "adb",
@@ -232,7 +236,7 @@
    "url": "https://github.com/HmnDev-Tech/Obtainmond",
    "text": "Get Android app updates straight from the source link!",
    "fork": true,
-   "stars": 12,
+   "stars": 13,
    "language": "Kotlin",
    "topics": [
     "adb",
@@ -251,7 +255,7 @@
    "url": "https://github.com/HmnDev-Tech/shevery",
    "text": "Shevery - Modernized Android manager with Jetpack Compose, Material 3, and compatibility enhancements.",
    "fork": false,
-   "stars": 1740,
+   "stars": 1743,
    "language": "Kotlin",
    "topics": [
     "adb",
@@ -293,6 +297,23 @@
    ]
   },
   {
+   "name": "Obtainmond",
+   "url": "https://github.com/HmnDev-Tech/Obtainmond",
+   "text": "Get Android app updates straight from the source link!",
+   "fork": true,
+   "stars": 13,
+   "language": "Kotlin",
+   "topics": [
+    "adb",
+    "obtainium",
+    "obtainium-alternative",
+    "obtainium-apps",
+    "shevery",
+    "shevery-api",
+    "shizuku"
+   ]
+  },
+  {
    "name": "How-App-Coded",
    "url": "https://github.com/HmnDev-Tech/How-App-Coded",
    "text": "How app coded? So, install module and see!",
@@ -305,23 +326,6 @@
     "shevery-modules",
     "shizuku",
     "shizuku-module"
-   ]
-  },
-  {
-   "name": "Obtainmond",
-   "url": "https://github.com/HmnDev-Tech/Obtainmond",
-   "text": "Get Android app updates straight from the source link!",
-   "fork": true,
-   "stars": 12,
-   "language": "Kotlin",
-   "topics": [
-    "adb",
-    "obtainium",
-    "obtainium-alternative",
-    "obtainium-apps",
-    "shevery",
-    "shevery-api",
-    "shizuku"
    ]
   },
   {
