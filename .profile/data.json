@@ -1,9 +1,9 @@
 {
- "key": "e8b649d7",
- "stars": 1836,
+ "key": "81fa9280",
+ "stars": 1840,
  "contributions": 626,
  "repos": 13,
- "followers": 119,
+ "followers": 121,
  "languages": [
   [
    "Kotlin",
@@ -157,7 +157,7 @@
    "url": "https://github.com/HmnDev-Tech/shevery",
    "text": "Shevery - Modernized Android manager with Jetpack Compose, Material 3, and compatibility enhancements.",
    "fork": false,
-   "stars": 1743,
+   "stars": 1746,
    "language": "Kotlin",
    "topics": [
     "adb",
@@ -255,7 +255,7 @@
    "url": "https://github.com/HmnDev-Tech/shevery",
    "text": "Shevery - Modernized Android manager with Jetpack Compose, Material 3, and compatibility enhancements.",
    "fork": false,
-   "stars": 1743,
+   "stars": 1746,
    "language": "Kotlin",
    "topics": [
     "adb",
@@ -271,7 +271,7 @@
    "url": "https://github.com/HmnDev-Tech/ShizuConfigs",
    "text": "Official \"Shevery\" module, that can monitor, create config.",
    "fork": false,
-   "stars": 56,
+   "stars": 57,
    "language": "JavaScript",
    "topics": [
     "adb-modules",
