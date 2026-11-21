@@ -1,6 +1,6 @@
 {
- "key": "fc704ff8",
- "stars": 1848,
+ "key": "43d7778",
+ "stars": 1849,
  "contributions": 626,
  "repos": 13,
  "followers": 121,
@@ -157,7 +157,7 @@
    "url": "https://github.com/HmnDev-Tech/shevery",
    "text": "Shevery - Modernized Android manager with Jetpack Compose, Material 3, and compatibility enhancements.",
    "fork": false,
-   "stars": 1753,
+   "stars": 1754,
    "language": "Kotlin",
    "topics": [
     "adb",
@@ -236,7 +236,7 @@
    "url": "https://github.com/HmnDev-Tech/Obtainmond",
    "text": "Get Android app updates straight from the source link!",
    "fork": true,
-   "stars": 14,
+   "stars": 15,
    "language": "Kotlin",
    "topics": [
     "adb",
@@ -255,7 +255,7 @@
    "url": "https://github.com/HmnDev-Tech/shevery",
    "text": "Shevery - Modernized Android manager with Jetpack Compose, Material 3, and compatibility enhancements.",
    "fork": false,
-   "stars": 1753,
+   "stars": 1754,
    "language": "Kotlin",
    "topics": [
     "adb",
@@ -283,7 +283,7 @@
    "url": "https://github.com/HmnDev-Tech/Obtainmond",
    "text": "Get Android app updates straight from the source link!",
    "fork": true,
-   "stars": 14,
+   "stars": 15,
    "language": "Kotlin",
    "topics": [
     "adb",
@@ -356,21 +356,21 @@
    "topics": []
   },
   {
+   "name": "essentials",
+   "url": "https://github.com/HmnDev-Tech/essentials",
+   "text": "Essential tools and mods for Android nerds",
+   "fork": true,
+   "stars": 2,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
    "name": "HmnDev-Tech",
    "url": "https://github.com/HmnDev-Tech/HmnDev-Tech",
    "text": "",
    "fork": false,
    "stars": 1,
    "language": null,
-   "topics": []
-  },
-  {
-   "name": "essentials",
-   "url": "https://github.com/HmnDev-Tech/essentials",
-   "text": "Essential tools and mods for Android nerds",
-   "fork": true,
-   "stars": 1,
-   "language": "Kotlin",
    "topics": []
   },
   {
