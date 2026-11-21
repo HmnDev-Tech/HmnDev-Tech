@@ -1,6 +1,6 @@
 {
- "key": "81fa9280",
- "stars": 1840,
+ "key": "fc704ff8",
+ "stars": 1848,
  "contributions": 626,
  "repos": 13,
  "followers": 121,
@@ -157,7 +157,7 @@
    "url": "https://github.com/HmnDev-Tech/shevery",
    "text": "Shevery - Modernized Android manager with Jetpack Compose, Material 3, and compatibility enhancements.",
    "fork": false,
-   "stars": 1746,
+   "stars": 1753,
    "language": "Kotlin",
    "topics": [
     "adb",
@@ -191,7 +191,7 @@
    "url": "https://github.com/HmnDev-Tech/Shevery-API",
    "text": "New API of Shevery that faster than Shizuku API",
    "fork": false,
-   "stars": 7,
+   "stars": 8,
    "language": "Java",
    "topics": []
   },
@@ -236,7 +236,7 @@
    "url": "https://github.com/HmnDev-Tech/Obtainmond",
    "text": "Get Android app updates straight from the source link!",
    "fork": true,
-   "stars": 13,
+   "stars": 14,
    "language": "Kotlin",
    "topics": [
     "adb",
@@ -255,7 +255,7 @@
    "url": "https://github.com/HmnDev-Tech/shevery",
    "text": "Shevery - Modernized Android manager with Jetpack Compose, Material 3, and compatibility enhancements.",
    "fork": false,
-   "stars": 1746,
+   "stars": 1753,
    "language": "Kotlin",
    "topics": [
     "adb",
@@ -279,6 +279,23 @@
    ]
   },
   {
+   "name": "Obtainmond",
+   "url": "https://github.com/HmnDev-Tech/Obtainmond",
+   "text": "Get Android app updates straight from the source link!",
+   "fork": true,
+   "stars": 14,
+   "language": "Kotlin",
+   "topics": [
+    "adb",
+    "obtainium",
+    "obtainium-alternative",
+    "obtainium-apps",
+    "shevery",
+    "shevery-api",
+    "shizuku"
+   ]
+  },
+  {
    "name": "BLE-Droid",
    "url": "https://github.com/HmnDev-Tech/BLE-Droid",
    "text": "Open the new advanced BLE App with Material 3 Expressive and Jetpack Compose!",
@@ -294,23 +311,6 @@
     "bluetooth",
     "bluetooth-le",
     "bluetooth-low-energy"
-   ]
-  },
-  {
-   "name": "Obtainmond",
-   "url": "https://github.com/HmnDev-Tech/Obtainmond",
-   "text": "Get Android app updates straight from the source link!",
-   "fork": true,
-   "stars": 13,
-   "language": "Kotlin",
-   "topics": [
-    "adb",
-    "obtainium",
-    "obtainium-alternative",
-    "obtainium-apps",
-    "shevery",
-    "shevery-api",
-    "shizuku"
    ]
   },
   {
@@ -342,7 +342,7 @@
    "url": "https://github.com/HmnDev-Tech/Shevery-API",
    "text": "New API of Shevery that faster than Shizuku API",
    "fork": false,
-   "stars": 7,
+   "stars": 8,
    "language": "Java",
    "topics": []
   },
