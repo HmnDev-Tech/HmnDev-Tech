@@ -1,7 +1,7 @@
 {
- "key": "e1ca38b4",
- "stars": 1872,
- "contributions": 627,
+ "key": "56b858d0",
+ "stars": 1875,
+ "contributions": 633,
  "repos": 13,
  "followers": 123,
  "languages": [
@@ -126,7 +126,7 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 6,
     "day": 25,
     "today": true
    },
@@ -136,7 +136,7 @@
   ]
  ],
  "streak": {
-  "current": 1,
+  "current": 2,
   "longest": 13
  },
  "pins": [
@@ -145,7 +145,7 @@
    "url": "https://github.com/HmnDev-Tech/shevery",
    "text": "Shevery - Modernized Android manager with Jetpack Compose, Material 3, and compatibility enhancements.",
    "fork": false,
-   "stars": 1777,
+   "stars": 1779,
    "language": "Kotlin",
    "topics": [
     "adb",
@@ -243,7 +243,7 @@
    "url": "https://github.com/HmnDev-Tech/shevery",
    "text": "Shevery - Modernized Android manager with Jetpack Compose, Material 3, and compatibility enhancements.",
    "fork": false,
-   "stars": 1777,
+   "stars": 1779,
    "language": "Kotlin",
    "topics": [
     "adb",
@@ -284,6 +284,21 @@
    ]
   },
   {
+   "name": "How-App-Coded",
+   "url": "https://github.com/HmnDev-Tech/How-App-Coded",
+   "text": "How app coded? So, install module and see!",
+   "fork": false,
+   "stars": 14,
+   "language": "JavaScript",
+   "topics": [
+    "adb-modules",
+    "shevery",
+    "shevery-modules",
+    "shizuku",
+    "shizuku-module"
+   ]
+  },
+  {
    "name": "BLE-Droid",
    "url": "https://github.com/HmnDev-Tech/BLE-Droid",
    "text": "Open the new advanced BLE App with Material 3 Expressive and Jetpack Compose!",
@@ -299,21 +314,6 @@
     "bluetooth",
     "bluetooth-le",
     "bluetooth-low-energy"
-   ]
-  },
-  {
-   "name": "How-App-Coded",
-   "url": "https://github.com/HmnDev-Tech/How-App-Coded",
-   "text": "How app coded? So, install module and see!",
-   "fork": false,
-   "stars": 13,
-   "language": "JavaScript",
-   "topics": [
-    "adb-modules",
-    "shevery",
-    "shevery-modules",
-    "shizuku",
-    "shizuku-module"
    ]
   },
   {
